@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Push Ups",
+  "base_artist": "Drake",
+  "createdAt": "2025-12-07T14:31:33.306200Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Push-ups",
+      "artist": "Scarlet Pleasure",
+      "has_synced": true,
+      "path": "select/01_Push-ups_Scarlet_Pleasure.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Push Ups - feat. Slim Dunkin",
+      "artist": "Gucci Mane feat. V-Nasty",
+      "has_synced": false,
+      "path": "select/02_Push_Ups_-_feat._Slim_Dunkin_Gucci_Mane_feat._V-Nasty.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nasty - Push Ups Feat. Slim Dunkin",
+      "artist": "Gucci Mane & V-Nasty",
+      "has_synced": false,
+      "path": "select/03_Nasty_-_Push_Ups_Feat._Slim_Dunkin_Gucci_Mane_&_V-Nasty.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Doing Push Ups",
+      "artist": "Bears In Trees",
+      "has_synced": false,
+      "path": "select/04_I'm_Doing_Push_Ups_Bears_In_Trees.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Push Ups (Two)",
+      "artist": "Bears In Trees",
+      "has_synced": false,
+      "path": "select/05_Push_Ups_(Two)_Bears_In_Trees.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "37 Push Ups",
+      "artist": "Smog",
+      "has_synced": true,
+      "path": "select/06_37_Push_Ups_Smog.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Push Ups",
+      "artist": "Gucci Mane",
+      "has_synced": false,
+      "path": "select/07_Push_Ups_Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Push Ups",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/08_Push_Ups_Drake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Push Ups (Explicit)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/09_Push_Ups_(Explicit)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Push Ups",
+      "artist": "Drake - Topic",
+      "has_synced": true,
+      "path": "select/10_Push_Ups_Drake_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Push Ups",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/11_Push_Ups_Drake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Push Ups",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/12_Push_Ups_Drake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Push Ups",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/13_Push_Ups_Drake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Push Ups (feat. Slim Dunkin)",
+      "artist": "Gucci Mane",
+      "has_synced": false,
+      "path": "select/14_Push_Ups_(feat._Slim_Dunkin)_Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Push Ups (Drop and Give Me 50)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/15_Push_Ups_(Drop_and_Give_Me_50)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Push Ups",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/16_Push_Ups_Drake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Push Ups",
+      "artist": "Drake",
+      "has_synced": false,
+      "path": "select/pl_01_Push_Ups_Drake.txt"
+    }
+  ]
+}
